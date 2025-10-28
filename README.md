@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/ilya-kononov-07101b267/" target="blank"><img align="center" src="icons/LinkedIn.svg" alt="https://www.linkedin.com/in/ilya-kononov-07101b267/" width="48" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3><p align="left"> 
+<h3 align="left">Familiar Languages and Applications:</h3><p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/C.svg" alt="c" width="40" height="40"/></a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="icons/CPP.svg" alt="cpp" width="40" height="40"/></a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="icons/CSS.svg" alt="css3" width="40" height="40"/></a> 
