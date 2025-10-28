@@ -7,7 +7,7 @@
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilyakononov2714@gmail.com" target="blank"></a> <img align="center" src="icons/Gmail-Dark.svg" width="48" alt="https://mail.google.com/mail/?view=cm&fs=1&to=ilyakononov2714@gmail.com"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ilyakononov2714@gmail.com" target="blank"><img align="center" src="icons/Gmail-Dark.svg" width="48" alt="https://mail.google.com/mail/?view=cm&fs=1&to=ilyakononov2714@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/ilya-kononov-07101b267/" target="blank"><img align="center" src="icons/LinkedIn.svg" alt="https://www.linkedin.com/in/ilya-kononov-07101b267/" width="48" /></a>
 </p>
 
