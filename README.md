@@ -1,4 +1,3 @@
-# Ilya Kononov
 <h1 align="center">Hello 👋, I'm Ilya</h1>
 <h3 align="center">A undergraduate CS and Math student passionate about AI and Game Development.</h3>
 
