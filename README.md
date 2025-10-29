@@ -3,7 +3,7 @@
 
 - 🛠 I’m currently working on **MyWorkout: a personal workout & wiki planner.**
 
-- 🎯 I’m currently learning **React, Django, and postgress to develop a web appication.**
+- 🎯 I’m currently learning **React, Django, and Postgres to develop a web appication.**
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
